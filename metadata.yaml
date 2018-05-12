@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38292'
     url: http://www.gutenberg.org/2009/agents/38292
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36474#A-Statistical-Inquiry-Into-the-Nature-and-Treatment-of-Epilepsy
 gutenberg_issued: '2011-06-20'
 gutenberg_type: Text
 identifiers:
