@@ -1,0 +1,27 @@
+_repo: A-Statistical-Inquiry-Into-the-Nature-and-Treatment-of-Epilepsy_36474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Alexander Hughes
+    alias: Bennett, A. Hughes
+    birthdate: 1848
+    deathdate: 1901
+    gutenberg_agent_id: '38292'
+    url: http://www.gutenberg.org/2009/agents/38292
+description: ''
+gutenberg_issued: '2011-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epilepsy'
+- !lcc 'RC'
+title: A Statistical Inquiry Into the Nature and Treatment of Epilepsy
+url: http://www.gutenberg.org/ebooks/36474
